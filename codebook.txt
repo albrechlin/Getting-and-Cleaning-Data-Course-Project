@@ -1,0 +1,17 @@
+Subject - Identifier for the subject doing the activities being measured by the accelerometers and gyroscopes.
+
+Activity - Activities being measured by the accelerometers and gyroscopes.
+
+Body Accelerometer - Accelerometer taking linear acceleration readings of the body wearing the smartphone.
+
+Gravity Accelerometer - Accelerometer taking linear acceleration readings in relation to gravity.
+
+Body Gyroscope - Gyroscope taking angular velocity readings of the body wearing the smartphone.
+
+Time Domain - Variations in amplitude of the specified measurement over 2.56 sec windows with measurements are taken at 50 Hz.
+
+Frequency Domain - Event occurrances in the 2.56 observation period with measurements taken at 50 Hz, produced by Fast Fourier Transform.
+
+Jerk - Signals derived from body linear acceleration and angular velocity.
+
+Magnitude - Degree of signal strength, calculated by Euclidean norm.
